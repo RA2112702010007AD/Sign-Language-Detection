@@ -1,5 +1,6 @@
 # Sign-Language-Detection
 **Anurag Das**
+
 Communication is one of the most important parts of our daily lives. 
 For people who are deaf or hard of hearing, sign language is a powerful way to express themselves. 
 However, not everyone understands sign language, which can lead to communication barriers in everyday.Situations like schools, hospitals, or public places.
